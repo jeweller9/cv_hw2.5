@@ -24,7 +24,7 @@
 
 Примеры синтетических изображений:
 
-![synthetic_samples](runs/ablation_figures/synthetic_samples.png)
+![synthetic_samples](synthetic_samples_preview.png)
 
 ---
 
@@ -66,13 +66,11 @@
 
 ### Визуализации
 
-**Кривые обучения (Real+Aug vs Best Mixed)**  
-![training_curves](runs/ablation_figures/training_curves.png)
-
 **Per‑class F1**  
-![per_class_f1](runs/ablation_figures/per_class_f1.png)
+![per_class_f1](f1_per_class_with_aug.png)
 
-**Матрицы ошибок**  
-![confusion_matrices](runs/ablation_figures/confusion_matrices.png)
+**Влияние синтетических данных на F1 macro**  
+![per_class_f1](f1_vs_configs_with_aug.png)
+
 
 ---
