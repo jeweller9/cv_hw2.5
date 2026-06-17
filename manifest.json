@@ -1,0 +1,505 @@
+{
+  "airplane": [],
+  "cat": [
+    {
+      "file_name": "cat_0037.jpg",
+      "class": "cat",
+      "prompt": "portrait of a tabby cat, sharp focus, realistic photograph, high detail",
+      "seed": 693847829
+    },
+    {
+      "file_name": "cat_0038.jpg",
+      "class": "cat",
+      "prompt": "black cat looking at camera, photorealistic, indoor lighting, high quality",
+      "seed": 2456273
+    },
+    {
+      "file_name": "cat_0039.jpg",
+      "class": "cat",
+      "prompt": "cat playing with a toy, natural sunlight, realistic photo, sharp",
+      "seed": 1392239675
+    },
+    {
+      "file_name": "cat_0040.jpg",
+      "class": "cat",
+      "prompt": "a cute domestic cat sitting on a windowsill, photorealistic, natural light, 4k",
+      "seed": 2098545541
+    },
+    {
+      "file_name": "cat_0041.jpg",
+      "class": "cat",
+      "prompt": "portrait of a tabby cat, sharp focus, realistic photograph, high detail",
+      "seed": 83651970
+    },
+    {
+      "file_name": "cat_0042.jpg",
+      "class": "cat",
+      "prompt": "black cat looking at camera, photorealistic, indoor lighting, high quality",
+      "seed": 480468219
+    },
+    {
+      "file_name": "cat_0043.jpg",
+      "class": "cat",
+      "prompt": "cat playing with a toy, natural sunlight, realistic photo, sharp",
+      "seed": 1558990517
+    },
+    {
+      "file_name": "cat_0044.jpg",
+      "class": "cat",
+      "prompt": "a cute domestic cat sitting on a windowsill, photorealistic, natural light, 4k",
+      "seed": 1320763135
+    },
+    {
+      "file_name": "cat_0045.jpg",
+      "class": "cat",
+      "prompt": "portrait of a tabby cat, sharp focus, realistic photograph, high detail",
+      "seed": 1028439863
+    },
+    {
+      "file_name": "cat_0046.jpg",
+      "class": "cat",
+      "prompt": "black cat looking at camera, photorealistic, indoor lighting, high quality",
+      "seed": 248786714
+    },
+    {
+      "file_name": "cat_0047.jpg",
+      "class": "cat",
+      "prompt": "cat playing with a toy, natural sunlight, realistic photo, sharp",
+      "seed": 1034535593
+    },
+    {
+      "file_name": "cat_0048.jpg",
+      "class": "cat",
+      "prompt": "a cute domestic cat sitting on a windowsill, photorealistic, natural light, 4k",
+      "seed": 338258951
+    },
+    {
+      "file_name": "cat_0049.jpg",
+      "class": "cat",
+      "prompt": "portrait of a tabby cat, sharp focus, realistic photograph, high detail",
+      "seed": 367878761
+    },
+    {
+      "file_name": "cat_0050.jpg",
+      "class": "cat",
+      "prompt": "black cat looking at camera, photorealistic, indoor lighting, high quality",
+      "seed": 2087313121
+    },
+    {
+      "file_name": "cat_0051.jpg",
+      "class": "cat",
+      "prompt": "cat playing with a toy, natural sunlight, realistic photo, sharp",
+      "seed": 297265480
+    },
+    {
+      "file_name": "cat_0052.jpg",
+      "class": "cat",
+      "prompt": "a cute domestic cat sitting on a windowsill, photorealistic, natural light, 4k",
+      "seed": 540137296
+    },
+    {
+      "file_name": "cat_0053.jpg",
+      "class": "cat",
+      "prompt": "portrait of a tabby cat, sharp focus, realistic photograph, high detail",
+      "seed": 551437149
+    },
+    {
+      "file_name": "cat_0054.jpg",
+      "class": "cat",
+      "prompt": "black cat looking at camera, photorealistic, indoor lighting, high quality",
+      "seed": 2041322270
+    },
+    {
+      "file_name": "cat_0055.jpg",
+      "class": "cat",
+      "prompt": "cat playing with a toy, natural sunlight, realistic photo, sharp",
+      "seed": 709214891
+    },
+    {
+      "file_name": "cat_0056.jpg",
+      "class": "cat",
+      "prompt": "a cute domestic cat sitting on a windowsill, photorealistic, natural light, 4k",
+      "seed": 1138409539
+    },
+    {
+      "file_name": "cat_0057.jpg",
+      "class": "cat",
+      "prompt": "portrait of a tabby cat, sharp focus, realistic photograph, high detail",
+      "seed": 1817363615
+    },
+    {
+      "file_name": "cat_0058.jpg",
+      "class": "cat",
+      "prompt": "black cat looking at camera, photorealistic, indoor lighting, high quality",
+      "seed": 909666337
+    },
+    {
+      "file_name": "cat_0059.jpg",
+      "class": "cat",
+      "prompt": "cat playing with a toy, natural sunlight, realistic photo, sharp",
+      "seed": 863937247
+    }
+  ],
+  "dog": [
+    {
+      "file_name": "dog_0000.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 9257255
+    },
+    {
+      "file_name": "dog_0001.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 1676848676
+    },
+    {
+      "file_name": "dog_0002.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 1139038460
+    },
+    {
+      "file_name": "dog_0003.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 1954246074
+    },
+    {
+      "file_name": "dog_0004.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 1225136114
+    },
+    {
+      "file_name": "dog_0005.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 1816803306
+    },
+    {
+      "file_name": "dog_0006.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 2090237817
+    },
+    {
+      "file_name": "dog_0007.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 664847319
+    },
+    {
+      "file_name": "dog_0008.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 815605132
+    },
+    {
+      "file_name": "dog_0009.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 1274350418
+    },
+    {
+      "file_name": "dog_0010.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 935018220
+    },
+    {
+      "file_name": "dog_0011.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 251183830
+    },
+    {
+      "file_name": "dog_0012.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 261810763
+    },
+    {
+      "file_name": "dog_0013.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 1346922426
+    },
+    {
+      "file_name": "dog_0014.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 245522987
+    },
+    {
+      "file_name": "dog_0015.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 215359682
+    },
+    {
+      "file_name": "dog_0016.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 2047791082
+    },
+    {
+      "file_name": "dog_0017.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 676168421
+    },
+    {
+      "file_name": "dog_0018.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 244295904
+    },
+    {
+      "file_name": "dog_0019.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 344076115
+    },
+    {
+      "file_name": "dog_0020.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 798112150
+    },
+    {
+      "file_name": "dog_0021.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 294296873
+    },
+    {
+      "file_name": "dog_0022.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 291889680
+    },
+    {
+      "file_name": "dog_0023.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 1010193046
+    },
+    {
+      "file_name": "dog_0024.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 1734202799
+    },
+    {
+      "file_name": "dog_0025.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 514909066
+    },
+    {
+      "file_name": "dog_0026.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 1057486868
+    },
+    {
+      "file_name": "dog_0027.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 170689150
+    },
+    {
+      "file_name": "dog_0028.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 352116052
+    },
+    {
+      "file_name": "dog_0029.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 1800557283
+    },
+    {
+      "file_name": "dog_0030.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 1358798143
+    },
+    {
+      "file_name": "dog_0031.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 1119980130
+    },
+    {
+      "file_name": "dog_0032.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 877286584
+    },
+    {
+      "file_name": "dog_0033.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 1349409434
+    },
+    {
+      "file_name": "dog_0034.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 1025148381
+    },
+    {
+      "file_name": "dog_0035.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 1140805649
+    },
+    {
+      "file_name": "dog_0036.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 1699887270
+    },
+    {
+      "file_name": "dog_0037.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 562117925
+    },
+    {
+      "file_name": "dog_0038.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 1288477634
+    },
+    {
+      "file_name": "dog_0039.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 1963764597
+    },
+    {
+      "file_name": "dog_0040.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 1357970698
+    },
+    {
+      "file_name": "dog_0041.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 311570307
+    },
+    {
+      "file_name": "dog_0042.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 40009587
+    },
+    {
+      "file_name": "dog_0043.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 1968321319
+    },
+    {
+      "file_name": "dog_0044.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 429416213
+    },
+    {
+      "file_name": "dog_0045.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 314652384
+    },
+    {
+      "file_name": "dog_0046.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 915490795
+    },
+    {
+      "file_name": "dog_0047.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 1139027119
+    },
+    {
+      "file_name": "dog_0048.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 568896616
+    },
+    {
+      "file_name": "dog_0049.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 1498981529
+    },
+    {
+      "file_name": "dog_0050.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 295456419
+    },
+    {
+      "file_name": "dog_0051.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 1049193572
+    },
+    {
+      "file_name": "dog_0052.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 1587106770
+    },
+    {
+      "file_name": "dog_0053.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 1224011538
+    },
+    {
+      "file_name": "dog_0054.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 677517496
+    },
+    {
+      "file_name": "dog_0055.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 1881988384
+    },
+    {
+      "file_name": "dog_0056.jpg",
+      "class": "dog",
+      "prompt": "a golden retriever running in a park, photorealistic, 4k, natural sunlight",
+      "seed": 1299301222
+    },
+    {
+      "file_name": "dog_0057.jpg",
+      "class": "dog",
+      "prompt": "portrait of a husky dog, sharp focus, realistic photograph, high detail",
+      "seed": 33599984
+    },
+    {
+      "file_name": "dog_0058.jpg",
+      "class": "dog",
+      "prompt": "small dog sitting on grass, photorealistic, outdoor lighting, high quality",
+      "seed": 1285821930
+    },
+    {
+      "file_name": "dog_0059.jpg",
+      "class": "dog",
+      "prompt": "dog catching a frisbee, natural lighting, realistic photo, sharp",
+      "seed": 444900634
+    }
+  ]
+}
